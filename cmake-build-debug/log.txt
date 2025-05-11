@@ -1,0 +1,4 @@
+2025-05-12 00:01:38: Failed to open tasks file.
+2025-05-12 00:02:15: Failed to open tasks file.
+2025-05-12 00:02:59: Task added: ID: 1, 描述: 大狗, 优先级: 1, 截止日期: 2020-25-6
+2025-05-12 00:02:59: Tasks saved successfully.

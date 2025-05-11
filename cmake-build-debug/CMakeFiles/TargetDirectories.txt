@@ -1,0 +1,9 @@
+D:/ClionProjects/Day/Run/cmake-build-debug/CMakeFiles/Run.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Logger/CMakeFiles/Logger.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Logger/CMakeFiles/edit_cache.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Logger/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Command/CMakeFiles/Command.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Command/CMakeFiles/edit_cache.dir
+D:/ClionProjects/Day/Run/cmake-build-debug/Command/CMakeFiles/rebuild_cache.dir

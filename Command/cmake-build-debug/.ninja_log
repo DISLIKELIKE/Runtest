@@ -1,0 +1,9 @@
+# ninja log v5
+8	702	7686773960219630	CMakeFiles/Command.dir/CommandImpl.cpp.obj	8fb371b4f62ea069
+2	205	7686821346322519	build.ninja	c5b6404ae7dca861
+3	291	7686776422983573	CMakeFiles/Command.dir/Task.cpp.obj	46029b3a86ba2162
+4	912	7686773962365439	CMakeFiles/Command.dir/TaskManager.cpp.obj	14787237a90b0e67
+2	937	7686773962618196	CMakeFiles/Command.dir/Command.cpp.obj	50fdf728a57f93bd
+2	197	7686821346322519	build.ninja	c5b6404ae7dca861
+3	118	7686821347608264	libCommand.dll	27318a0742a42784
+3	118	7686821347608264	libCommand.dll.a	27318a0742a42784
