@@ -1,0 +1,13 @@
+"D:\Program Files\JetBrains\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\ClionProjects\Day\Command -B D:\ClionProjects\Day\Command\cmake-build-debug
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:12 (add_library):
+  Cannot find source file:
+
+    TaskManager.cpp
+
+
+CMake Error at CMakeLists.txt:12 (add_library):
+  No SOURCES given to target: Command
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

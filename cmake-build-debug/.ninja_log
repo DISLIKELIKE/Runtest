@@ -1,0 +1,13 @@
+# ninja log v5
+2	211	7686855382355692	build.ninja	ecb150271eb0c645
+15	1732	7686824089603919	Command/CMakeFiles/Command.dir/CommandImpl.cpp.obj	edfb56928ddca00b
+5	1543	7686824087435363	Logger/CMakeFiles/Logger.dir/Logger.cpp.obj	d57296342f79a816
+12	1552	7686824087143898	Command/CMakeFiles/Command.dir/Task.cpp.obj	af5c79d1988fc1a0
+9	1921	7686824091654925	Command/CMakeFiles/Command.dir/TaskManager.cpp.obj	60a2a9cc0c2d1a53
+2	1732	7686824089814364	CMakeFiles/Run.dir/main.cpp.obj	b5aa3052a71401c2
+1546	1924	7686824091539785	Logger/libLogger.dll	eae72031ce4629b7
+1546	1924	7686824091539785	Logger/libLogger.dll.a	eae72031ce4629b7
+7	1953	7686824092206322	Command/CMakeFiles/Command.dir/Command.cpp.obj	9161587068f5529e
+1953	2070	7686824093348700	Command/libCommand.dll	7e2ef8428ecc7ba7
+1953	2070	7686824093348700	Command/libCommand.dll.a	7e2ef8428ecc7ba7
+2070	2201	7686824094663170	Run.exe	1c90ed36c322b88b
