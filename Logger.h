@@ -31,3 +31,5 @@ private:
 };
 
 #endif //LOGGER_LOGGER_H
+
+//test
